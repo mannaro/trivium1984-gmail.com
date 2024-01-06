@@ -3,8 +3,8 @@
 #### Here I plan to share my Java programming language learning and more :exclamation:
 #### Feel free to drop by more often, I believe it will soon be interesting here :wolf:
 ____________________________________________________________________________________
-# **Привет дорогой друг! Мой ник Mannaro :wolf:**
-### Спасибо, что посетил мой репозиторий. :blush:
+# **Привет дорогой друг/подруга! Мой ник Mannaro :wolf:**
+### Спасибо, что посетил(а) мой репозиторий. :blush:
 #### Здесь я планирую делиться своим обучением языка программирования Джава и не только :exclamation:
 #### Заглядывай в гости почаще, я думаю, тут скоро будет интересно :wolf:
 
