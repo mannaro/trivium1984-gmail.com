@@ -1,9 +1,10 @@
-# **Hello dear friend!** :wave:
+# **Hello dear friend! My nick :wolf:** :wave:
 ### Thank you for visiting my repository. :blush:
 #### Here I plan to share my Java programming language learning and more :exclamation:
 #### Feel free to drop by more often, I believe it will soon be interesting here :wolf:
 ____________________________________________________________________________________
-# Привет, дорогой друг! :wave:
+# **Hello dear friend! My nick :wolf:** :wave:
+# Привет, дорогой друг! Мой ник :wave:
 ### Спасибо, что посетил мой репозиторий. :blush:
 #### Здесь я планирую делиться своим обучением языка программирования Джава и не только :exclamation:
 #### Заглядывай в гости почаще, я думаю, тут скоро будет интересно :wolf:
