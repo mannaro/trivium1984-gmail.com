@@ -1,3 +1,5 @@
+package LearningTasks.Tasks.src;
+
 //Задачка, в которой переворачивается
 //каждое отдельное слово в введеном выражении
 public class Task1 {

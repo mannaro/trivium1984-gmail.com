@@ -1,3 +1,5 @@
+package LearningTasks.Tasks.src;
+
 //Вывести на экран слово “JAVA”, в строку, чтобы оно повторилось 10 раз, используя цикл for.
 //Вывод в консоль должен быть таким:
 //JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA JAVA
