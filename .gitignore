@@ -7,10 +7,17 @@
 /dataSources/
 /dataSources.local.xml
 
-.idea/
-out/
+# IntellijIdea files
+*.iml
+.idea
+out
 
 .DS_Store
 .iml
 
+<<<<<<< HEAD
 resources/
+=======
+resources/
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 4837aa5eb11e3c6b955ab9c49bb12efe70879888
