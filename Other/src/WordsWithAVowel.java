@@ -10,7 +10,7 @@ public class WordsWithAVowel {
   public static final String VOLWES = "аоуеиыэяюё";
 
   public static void main(String[] args) throws IOException {
-    Path path = Path.of("resources", "test.txt");
+    Path path = Path.of("resources", "text.txt");
     try (Scanner scanner = new Scanner(path)) {
       while (scanner.hasNext()) {
         String word = scanner.next();
